@@ -64,6 +64,8 @@ import 'react-circular-progressbar/dist/styles.css';
             );
           }
           return robot["CPU Usage"].toString().includes(lowerSearchTerm);
+        default:
+          return false;
       }
     });
     const style = {
