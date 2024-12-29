@@ -1,0 +1,34 @@
+# Node.js dependencies
+node_modules/
+
+# npm log files
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Build output
+dist/
+build/
+public/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# IDE/editor folders and files
+.idea/
+.vscode/
+
+# Environment files
+.env
+
+# Log files
+*.log
+
+# OS files
+.vscode/settings.json
+
+# Other build tools, such as Webpack or TypeScript
+coverage/
+*.tsbuildinfo

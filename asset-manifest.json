@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Robot-Monitor-Dashboard/static/css/main.4613ac7d.css",
+    "main.js": "/Robot-Monitor-Dashboard/static/js/main.def95185.js",
+    "index.html": "/Robot-Monitor-Dashboard/index.html",
+    "main.4613ac7d.css.map": "/Robot-Monitor-Dashboard/static/css/main.4613ac7d.css.map",
+    "main.def95185.js.map": "/Robot-Monitor-Dashboard/static/js/main.def95185.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4613ac7d.css",
+    "static/js/main.def95185.js"
+  ]
+}
