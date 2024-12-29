@@ -103,8 +103,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - Implement user roles and permissions (e.g., admin access).
 - Provide more advanced robot telemetry data like temperature, speed, etc.
 - Implement data persistence using a database.
-
-## Bonus Criteria Progress
-I have completed 2 out of 3 tasks in the bonus criteria.
-- Containerization
-- Applying Filters
